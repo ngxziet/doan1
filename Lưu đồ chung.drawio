@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="Trang-1" id="Xm8CXyWp7TMnGDRKS8NE">
-    <mxGraphModel dx="1066" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Z9sWXTGS8yLuttllYk--22" value="Thực hiện hiển thị trên LED 7 đoạn" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Z9sWXTGS8yLuttllYk--25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Z9sWXTGS8yLuttllYk--20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
