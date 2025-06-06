@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Trang-1" id="VraIW6mYe2UBwn9pdnvD">
-    <mxGraphModel dx="1157" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="506" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,19 +84,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tVMcDfQx82HrFF794RLT-16" value="biến đếm cảnh báo=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tVMcDfQx82HrFF794RLT-16" value="count=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1020" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tVMcDfQx82HrFF794RLT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVMcDfQx82HrFF794RLT-20" target="tVMcDfQx82HrFF794RLT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tVMcDfQx82HrFF794RLT-20" value="Khởi tạo lại thời gian ban đầu=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tVMcDfQx82HrFF794RLT-20" value="timer=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tVMcDfQx82HrFF794RLT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVMcDfQx82HrFF794RLT-23" target="tVMcDfQx82HrFF794RLT-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tVMcDfQx82HrFF794RLT-23" value="count++" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tVMcDfQx82HrFF794RLT-23" value="count++, thực hiện tính timer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tVMcDfQx82HrFF794RLT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVMcDfQx82HrFF794RLT-27" target="tVMcDfQx82HrFF794RLT-41">
@@ -116,7 +116,7 @@
         <mxCell id="tVMcDfQx82HrFF794RLT-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tVMcDfQx82HrFF794RLT-41" target="tVMcDfQx82HrFF794RLT-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tVMcDfQx82HrFF794RLT-41" value="tạo biến cảnh báo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tVMcDfQx82HrFF794RLT-41" value="Thực hiện cảnh báo,&lt;div&gt;count=1, timer=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tVMcDfQx82HrFF794RLT-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tVMcDfQx82HrFF794RLT-27">
