@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Trang-1" id="1f0PfflVzzfsGZ1iawQV">
-    <mxGraphModel dx="1361" dy="1206" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FG7W0Npe7aqC11CK1ajt-18" value="Đảo lại trạng thái của system enable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FG7W0Npe7aqC11CK1ajt-18" value="Đảo lại trạng thái của systemenable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FG7W0Npe7aqC11CK1ajt-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FG7W0Npe7aqC11CK1ajt-18">
@@ -109,7 +109,7 @@
             <mxPoint x="200" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FG7W0Npe7aqC11CK1ajt-25" value="Đảo lại trạng thái của display mode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FG7W0Npe7aqC11CK1ajt-25" value="Đảo lại trạng thái của displaymode" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FG7W0Npe7aqC11CK1ajt-28" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
